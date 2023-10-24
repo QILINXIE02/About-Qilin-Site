@@ -25,3 +25,13 @@ h1, h2 {
 .bio, .education, .experience, .goals, .quiz {
     margin-bottom: 20px;
 }
+
+.intro {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.profile-image {
+    width: 100px; /* Adjust the width as needed */
+    border-radius: 50%; /* To make the image round */
+}
