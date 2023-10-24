@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e49cbd;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(214, 64, 134);
+    color: rgb(238, 74, 74);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #132325;
+}
+
+.bio, .education, .experience, .goals, .quiz {
+    margin-bottom: 20px;
+}
