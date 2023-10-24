@@ -32,6 +32,12 @@ h1, h2 {
 }
 
 .profile-image {
-    width: 100px; /* Adjust the width as needed */
-    border-radius: 50%; /* To make the image round */
+    width: 100px; 
+    border-radius: 50%; 
 }
+
+.small-image {
+    max-width: 200px; 
+    height: auto;
+}
+

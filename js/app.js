@@ -1,12 +1,12 @@
 'use strict';
 
-// Function to ask a yes/no question and check the answer
+// Function to ask a yes/no question and then check the answer
 function askQuestion(question, correctAnswer) {
     const userAnswer = prompt(question);
     
     if (userAnswer === null) {
         alert("Game Over. You canceled the game.");
-        return;
+    return;
     }
 
     const userAnswerNormalized = userAnswer.toLowerCase().trim();
@@ -29,11 +29,11 @@ if (userName) {
 
     // Define questions and answers
     const questions = [
-        "Guess, do you like coding? (yes/no)",
-        "Guess, have you traveled to more than 3 countries? (yes/no)",
-        "Guess, is your favorite color blue? (yes/no)",
-        "Guess, do you enjoy hiking? (yes/no)",
-        "Guess, can you ride a skateboard? (yes/no)",
+        "Guess, does Qilin like coding? (yes/no)",
+        "Guess, has Qilin traveled to more than 3 countries? (yes/no)",
+        "Guess, is Qilin favorite color blue? (yes/no)",
+        "Guess, does Qilin enjoy hiking? (yes/no)",
+        "Guess, can Qilin ride a skateboard? (yes/no)",
     ];
 
     const correctAnswers = ["yes", "no", "no", "yes", "yes"];
