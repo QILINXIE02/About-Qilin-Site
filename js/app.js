@@ -52,7 +52,7 @@ if (userName) {
 
 // User's 6th question for guessing a number
 function guessNumber() {
-    let correctNumber = 7; // Change this to your desired number
+    let correctNumber = 7; // 
     for (let i = 0; i < 4; i++) {
         let userGuess = parseInt(prompt("Guess a number (1-10):"));
         if (userGuess === correctNumber) {
