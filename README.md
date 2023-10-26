@@ -15,3 +15,5 @@ update: 1:48 10/25/23
 
 2nd screenshot for lab 3
 ![Alt text](image-1.png)
+
+10/26. This is Meg, I was the driver to Qilin's Code. We worked on the JS files to create functions and increase the readibility of code.
