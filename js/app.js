@@ -1,18 +1,16 @@
 'use strict';
  
-// Function to ask a yes/no question and then check the answer
 function askYesNoQuestion(question, correctAnswer) {
   const userAnswer = prompt(question);
  
   if (userAnswer === null) {
-    return false; // Game canceled
+    return false;
   }
  
   const userAnswerNormalized = userAnswer.toLowerCase().trim();
   return userAnswerNormalized === correctAnswer;
 }
  
-// Function to guess a number
 function guessNumber() {
   const correctNumber = 10;
  
@@ -28,10 +26,9 @@ function guessNumber() {
     }
   }
  
-  return false; // All attempts failed
+  return false;
 }
  
-// Function to guess multiple answers
 function guessMultipleAnswers() {
   const possibleAnswers = ['apples', 'cherries', 'blackberries', 'tomatoes'];
  
@@ -39,16 +36,15 @@ function guessMultipleAnswers() {
     const userAnswer = prompt('Guess my favorite fruits/veggies (lower case & answer in plural only please):');
  
     if (possibleAnswers.includes(userAnswer.toLowerCase())) {
-      return true; // Correct guess
+      return true; 
     } else {
       alert('Try again.');
     }
   }
  
-  return false; // All attempts failed
+  return false;
 }
  
-// Function to start the game
 function startGame() {
   const userName = prompt("What's your name?");
  
@@ -85,13 +81,11 @@ function startGame() {
  
   alert(`You got ${correctAnswers} out of 7 questions correct.`);
  
-  // Alert today's date and have a good day message
   alert('Today is 10/26! Have a good day!');
  
   alert('Game Over! Thanks!');
 }
- 
-// Call the startGame function to begin the game
+
 startGame();
  
 
