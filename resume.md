@@ -20,7 +20,7 @@ As a beginner software developer with a background in education (preK-12, higher
 
 ## Projects:
 - **Tea Explorer Website, Nov 2023**
-  - [GitHub Repository](GitHub Repository)
+  - [GitHub Repository](https://github.com/Team-QUICM)
   - Collaborative team project utilizing HTML, CSS, JavaScript, Tui.calender library, and amCharts map library. An interactive platform for tea enthusiasts to explore and discover various teas worldwide.
 
 ## Recent Experience in Education and Technology:
