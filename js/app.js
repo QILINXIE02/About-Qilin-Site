@@ -1,5 +1,5 @@
 'use strict';
- 
+
 function askYesNoQuestion(question, correctAnswer) {
   const userAnswer = prompt(question);
  
