@@ -1,35 +1,59 @@
 # Qilin Xie
 **Software Developer**  
-*Salem, OR | qxie@gicw.org | Phone #*  
+Portland, OR | qilinxie02@gmail.com | ##Phone  
 [LinkedIn](https://www.linkedin.com/in/qilinxie/) | [GitHub](https://github.com/QILINXIE02)
 
 ## Summary:
-As a beginner software developer with a background in education (preK-12, higher Ed, & adult education), I'm dedicated to leveraging technology for impactful educational solutions. Fluent in English, Mandarin, and Cantonese, and intermediate in Spanish, I bring a unique perspective to the tech world. Currently advancing my skills at Code Fellows with an expected completion in 2024. Excited to collaborate on innovative projects that merge my love for coding and education.
+Software Developer with a background in Adult Education. Passionate about leveraging technology to create impactful educational experiences for diverse communities. Skilled in full-stack development using JavaScript, React, and Node.js. Multilingual: English, Mandarin, and Cantonese.
 
 ## Technical Skills:
-- **Languages:** JavaScript, HTML, CSS, Markup  
-- **Tools:** GitHub, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Google Suite, Visual Studio Code, Command Line Interface (CLI) Operations  
+- **Languages:** JavaScript, HTML5, CSS3
+- **Skills and Tools:** React, React Native, Node.js, Express.js, MySQL Shell, Git, GitHub, Vs Code, JSON, APIs, MongoDB, PostgreSQL, Web Sockets, Expo, NoSQL, AWS EC2, AWS S3, AWS DynamoDB, AWS API Gateway, OAuth, Netlify, Render, Jira, Command Line Interface (CLI) Operations, Browser Dev Tools, Microsoft 365, Google Suite
 - **Soft Skills:** Leadership, Time Management, Emotional Intelligence, Adaptability, Work Ethic, Critical Thinking, Teamwork, Foreign Language
 
 ## Education:
+- **Code Fellows, Seattle, WA**
+  - Certificate - Advanced Software Development in Full-Stack JavaScript - 2024
+
 - **Willamette University, Salem, OR**
   - BA in Philosophy & Global Cultural Studies
-- **Code Fellows, Seattle, WA**
-  - Certificate (Expected Completion: 2024)
-  - Advanced Software Development in Python
+
 
 ## Projects:
 - **Tea Explorer Website, Nov 2023**
-  - [GitHub Repository](https://github.com/Team-QUICM)
-  - Collaborative team project utilizing HTML, CSS, JavaScript, Tui.calender library, and amCharts map library. An interactive platform for tea enthusiasts to explore and discover various teas worldwide.
+  - [GitHub Repository](https://github.com/Team-QUICM/Tea-Explorer)
+  - Collaborative team project to build an interactive platform for tea enthusiasts.
+  - Led UI/UX design and development using HTML, CSS, Javascript.
+  - Integrated external libraries (Tui.calendar, amcharts) for enhanced functionality.
+
+- **GeoQuester Scavenger Hunt App, April 2024**
+  - [GitHub Repository](https://github.com/Innova-Tech-Labs)
+  - Developed a dynamic and interactive scavenger hunt app (GeoQuester) using React.js, Node.js, Express.js, and MongoDB.
+  - Responsible for backend API development and integration with Netlify and Render.com for deployment.
+
+- **AmbientWeather Project, May 2024**
+  - [GitHub Repository](https://github.com/QEA-Javascript/AmbientWeather)
+  - Implemented real-time weather data fetching from API and established broker communication for dynamic lighting adjustments with a hardware Pico device.
+  - Responsible for backend Express development to manage authentication, API data, and utilized PostgreSQL.
+
+- **Bouquet Customizer Mobile App, June 2024**
+  - [GitHub Repository](https://github.com/QILINXIE02/Flower-app)
+  - Developed a cross-platform mobile application using React Native, enabling users to create and manage custom flower bouquets with an intuitive color picker and favorite flowers feature.
+  - Implemented dynamic image galleries and efficient state management, enhancing user experience and ensuring seamless interaction with stored favorites and generated bouquets.
+
+- **VolunteerBridge Mobile App, July 2024**
+  - [GitHub Repository](https://github.com/TechSpark-Solutions/VolunteerBridgeApp)
+  - Developed a mobile app with React Native to connect volunteers and nonprofits.
+  - Integrated user settings, profile management, and volunteer opportunity listings.
+  - Utilized efficient state management techniques to manage user preferences and volunteer opportunities, ensuring data consistency and performance.
 
 ## Recent Experience in Education and Technology:
 
-### Career Center Instructor - Goodwill Industries of Columbia Willamette
-*Sept 28, 2023 - Present*
-- Provide training on computer functions using Microsoft Office, Google Suite, and other tools.
-- Facilitate learning workshops for GICW employees and community members through in-person and virtual learning environments.
-- Deliver and assist with curriculum development to meet stakeholders’ and management goals.
+### Software Skills Training Instructor - Goodwill Industries of Columbia Willamette
+ *Sept 2023 - Present*
+- Designed and facilitated learning workshops for 43 employees and community members on core computer applications, Microsoft Office & Google Suite (157 service hours).
+- Revised curriculum for computer and Microsoft Office courses, ensuring up-to-date content and optimized delivery methods for effective user onboarding.
+-Demonstrated commitment to continuous learning by completing a 20-week software development training program.
 
 ### Americorps Summer Transition Coach - College Possible
 *July 12—Sep 1, 2023*
@@ -100,3 +124,4 @@ As a beginner software developer with a background in education (preK-12, higher
 - Shared culture, language, and educational experience with 30 students in the Salem-Keizer school district.
 - Attended weekly meetings with the team to prepare lesson plans & collaborated with other branches to plan diverse events.
 - Coordinated with presenters and community partners before, during, and after presentations.
+
