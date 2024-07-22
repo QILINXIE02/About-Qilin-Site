@@ -1,19 +1,29 @@
-# repo-new
-- As a site owner, I am adding my "top ten" places to visit so users can learn more about me. 
+# Repo-New
 
-- As a site owner, I am making people guess the number between 1-`0. They can have 4 attempts.  
+Welcome to my personal site where you can learn more about me through interactive features!
 
-- As a site owner, I am making people guess my favorite fruits/veggies, they have 6 attempts before the corrected answers.  
+## Features
 
-- As a site owner, I am letting them know how many questions they've gotten correct out of 7 
+1. **Top Ten Places to Visit**
+   - Discover my favorite travel destinations.
 
-update: 1:48 10/25/23
+2. **Number Guessing Game**
+   - Guess a number between 1 and 10 with 4 attempts.
 
+3. **Favorite Fruits/Veggies Guessing Game**
+   - Guess my favorite fruits/veggies with 6 attempts.
 
-1st scrrensoht for lab 2
+4. **Quiz Score**
+   - Track your correct answers out of 7 questions.
+
+Explore the site and enjoy the games!
+
+---
+
+For more details, visit the [site](https://qilinxie02.github.io/repo-new/index.html).
+
 ![Alt text](image.png)
 
-2nd screenshot for lab 3
 ![Alt text](image-1.png)
 
 10/26. This is Meg, I was the driver to Qilin's Code. We worked on the JS files to create functions and increase the readibility of code.
